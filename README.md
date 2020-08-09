@@ -1,3 +1,3 @@
 # coursera_vcg
 
-coursera
+create -> README.md
